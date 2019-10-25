@@ -26,12 +26,14 @@ This repo is for paper "TRB: A Novel Triplet Representation for 2D Human Human B
   | with TRB | 98.5 | 95.3     | 92.6  | 90.6  | 93.8 | 95.8 | 95.5  | 94.5 |
 
 - On MPII Dataset (threshold PCKh@0.5):
+
   | MPII Test | Head | Shoulder | Elbow | Wrist | HIp  | Knee | Ankle | Mean |
   | --------- | ---- | -------- | ----- | ----- | ---- | ---- | ----- | ---- |
   | Baseline  | 98.4 | 96.4     | 92.0  | 87.8  | 90.7 | 88.3 | 85.3  | 91.6 |
   | with TRB  | 98.5 | 96.6     | 92.6  | 88.3  | 91.6 | 89.2 | 86.5  | 92.2 |
 
 - On COCO Dataset (Half human instances are annotated with TRB, using detected bbox)
+
   | COCO Val | AP   | AP<sup>50</sup> | AP<sup>75</sup> | AP<sup>M</sup> | AP<sup>L</sup> |
   | -------- | ---- | --------------- | --------------- | -------------- | -------------- |
   | Baseline | 71.9 | 88.9            | 78.4            | 68.7           | 77.2           |
