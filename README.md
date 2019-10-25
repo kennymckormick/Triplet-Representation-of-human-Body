@@ -50,7 +50,9 @@ This repo is for paper "TRB: A Novel Triplet Representation for 2D Human Human B
   | ---------------------------- | ---------------------------------- | -------------------------------- |
   | ![Leg Editing](imgs/leg.gif) | ![Shoulder Editing](imgs/shou.gif) | ![Torso Editing](imgs/torso.gif) |
 
+### MPII-TRB Data Format
 
+- File 'MPII_contour_points.json' contains contour keypoints annotation for MPII train-val. It can be aligned with MPII dataset using image name and human center, to construct the MPII-TRB dataset.
 
 ### TODO
 
