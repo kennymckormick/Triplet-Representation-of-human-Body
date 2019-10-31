@@ -56,4 +56,4 @@ This repo is for paper "TRB: A Novel Triplet Representation for 2D Human Human B
 
 ### TODO
 
-- [ ] MPII-trb dataset release
+- [X] MPII-trb dataset release
