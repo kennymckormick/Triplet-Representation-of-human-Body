@@ -1,6 +1,6 @@
 # Triplet-Representation-of-human-Body
 
-This repo is for paper "TRB: A Novel Triplet Representation for 2D Human Human Body Understanding".
+This repo is for paper ["TRB: A Novel Triplet Representation for 2D Human Human Body Understanding".](https://arxiv.org/abs/1910.11535). The repo contains contour keypoints annotations of MPII dataset used in this paper.
 
 ### What is TRB? 
 
